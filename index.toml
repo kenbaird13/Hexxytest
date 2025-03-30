@@ -5,11 +5,6 @@ file = "config/defaultoptions/servers.dat"
 hash = "466fea37964c89c3f9f7c2f7dcb49f7d38341d26b36b0f07b42f89aa1fbcc7d9"
 
 [[files]]
-file = "mods/ae2.pw.toml"
-hash = "3246bb73bfa95570e4ef16c79b283ba595d2f3a3c37f369cd7fc07815f7a179f"
-metafile = true
-
-[[files]]
 file = "mods/antighost.pw.toml"
 hash = "a0ccdbeba73ba4d5992ec991241cfa323f416631385ce2da9b93c24ef9c979e3"
 metafile = true
